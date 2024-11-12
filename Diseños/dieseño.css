@@ -1,0 +1,58 @@
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+a:active{
+    color: black;
+    text-decoration: none;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+header{
+    display: flex;
+}
+p, ul, a{
+    font-family: "Changa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+h1,h2,h3,h3{
+    font-family: "Changa One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color{
+    background-color:#f0e8cb;
+}
+.menu{
+    display:flex;
+    list-style: none;
+    margin-right: 90px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.descripcion{
+    width: 50%;
+}
+.caja{
+    display: flex;
+    padding: 20px;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.centro_inicio{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 60px;
+    width: 50%;
+    text-align: center;
+}
